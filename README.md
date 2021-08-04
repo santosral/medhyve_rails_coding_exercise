@@ -1,3 +1,3 @@
 # medhyve_rails_coding_exercise
 
-Exercise 1
+## Exercise 1
